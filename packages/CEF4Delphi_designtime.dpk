@@ -27,7 +27,7 @@ package CEF4Delphi_designtime;
 {$ENDIF IMPLICITBUILDING}
 {$DESCRIPTION 'CEF4Delphi'}
 {$DESIGNONLY}
-{$IMPLICITBUILD ON}
+{$IMPLICITBUILD OFF}
 
 requires
   rtl,
